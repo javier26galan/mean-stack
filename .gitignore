@@ -40,3 +40,9 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+
+#environment
+/nodemon.json
+/environment.ts
+/environment.prod.ts
